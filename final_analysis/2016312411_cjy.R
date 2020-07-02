@@ -14,8 +14,8 @@ library(extrafont)
 font_import()
 
 
-DATAGOKR_KEY ='VJYsI1dGkPtmG010DV3YF6pJg1x8v%2BSd0OgsHoFEWDqdPGoz4EpZn7IPUEyHJMZY9drjC3P7NqJ3%2F9U4liWsEg%3D%3D'
-KAKAKOAPI_KEY ='edd28d437f7f1c20341e9f7439e8f505'
+DATAGOKR_KEY ='....%...%.%..%.'
+KAKAKOAPI_KEY ='.....'
 getwd()
 setwd("/Users/janechoi/Desktop/2020SKKU/위치기반데이터분석/final")
 
