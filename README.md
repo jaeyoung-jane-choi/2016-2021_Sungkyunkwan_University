@@ -2,6 +2,6 @@
 
 > Class at SKKU for datascience and R 
 
-> Statistical Analysis inlcuded 
+> Statistical Analysis inlcuded such as Network Analysis and simple linear regression 
 
-> Such as Network Analysis and simple linear regression 
+> R files of Final Project
