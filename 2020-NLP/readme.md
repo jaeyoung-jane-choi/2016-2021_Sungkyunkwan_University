@@ -1,1 +1,2 @@
-## SKKU NLP COURSE ASSIGNMENTS 성균관대학교 자연어처리분석 수업 과제 
+### SKKU NLP COURSE ASSIGNMENTS 
+### 성균관대학교 자연어처리분석 수업 과제 
