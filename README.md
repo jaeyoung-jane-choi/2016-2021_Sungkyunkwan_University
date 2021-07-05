@@ -1,4 +1,4 @@
-### Sungkyunkwan-University Course Projects
+### Sungkyunkwan-University Course Repository
 
 These are the courses that required programming while i was at SKKU
 
